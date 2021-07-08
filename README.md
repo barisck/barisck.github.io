@@ -1,2 +1,2 @@
 # barisck.github.io
-Kişisel Web Sitesi
+Personal Website
